@@ -1,0 +1,5 @@
+TfRecords/
+COCO_annotations/
+models/
+transfering-learning-models/
+.idea/
